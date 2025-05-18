@@ -10,6 +10,6 @@ Wrieframe image 1 :
 [Link](Home-page-Task-Manager-website.png)
 
 Wireframe Image 2 : 
-[Link]()
+[Link](About-page-Task-Manager-website.png)
 
 The deployed Link:
