@@ -12,6 +12,6 @@ Do you recommend any website to do some practices for html and css?
 [Link](Home-page-Task-Manager-website.png)
 
 **About Wireframe**
-[Link]()
+[Link](About-page-Task-Manager-website.png)
 
 
