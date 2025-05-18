@@ -9,9 +9,9 @@ Do you recommend any website to do some practices for html and css?
 ## Wireframe:
 
 **Home Wireframe**
-![Link]()
+[Link](Home-page-Task-Manager-website.png)
 
 **About Wireframe**
-![Link]()
+[Link]()
 
 
