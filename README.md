@@ -7,7 +7,7 @@
 * 4 hour with some difficulties with css and the expected time to finish it is 7 hours.
 
 Wrieframe image 1 :
-[Link](About-page-Task Manager-website.png)
+[Link](Home-page-Task-Manager-website.png)
 
 Wireframe Image 2 : 
 [Link]()
